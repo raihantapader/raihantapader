@@ -4,7 +4,7 @@
 ### Software Engineer (AI/ML) & Applied AI Researcher
 **AI/ML Software Engineer @ [Betopia Limited](https://betopia.ai/) | B.Sc. in CSE, DUET**
 
-Specializing in **Production LLM Systems, Agentic AI, Empirical Software Engineering, and Trustworthy AI**.  
+Specializing in **Production LLM Systems, Agentic AI, NLP, Empirical Software Engineering, AI Safety, and Trustworthy AI**.  
 Bridging rigorous scientific research with scalable, high-throughput enterprise infrastructure.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raihantapader)

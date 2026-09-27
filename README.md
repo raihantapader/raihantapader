@@ -1,6 +1,6 @@
 <div align="center">
 
-# Md. Raihan Tapader
+# MD. RAIHAN TAPADER
 ### Software Engineer (AI/ML) & Applied AI Researcher
 **AI/ML Software Engineer @ [Betopia Limited](https://betopia.ai/) | B.Sc. in CSE, DUET**
 

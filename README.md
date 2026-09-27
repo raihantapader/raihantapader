@@ -207,10 +207,10 @@ As **Project Lead**, I architect and oversee the deployment of an enterprise sui
 ## 📜 Education & Certifications
 
 * **B.Sc. in Computer Science and Engineering (CSE)** — *Dhaka University of Engineering & Technology (DUET)*  
-  *Nov 2021 – Oct 2025* | **CGPA:** 3.11 / 4.00  
+  *Nov 2021 – Oct 2025* 
   *Key Coursework:* Machine Learning, Artificial Intelligence, Neural Networks & Pattern Recognition, Data Structures, Cyber-Physical Systems, Human-Computer Interaction.
 * **Diploma in Electronics Technology** — *Cumilla Polytechnic Institute*  
-  *Sep 2015 – Dec 2019* | **CGPA:** 3.46 / 4.00
+  *Sep 2015 – Dec 2019* 
 
 ### Professional Credentials
 * **Building AI Agents with LLMs, RAG, and Knowledge Graphs Specialization** (Coursera, July 2026)

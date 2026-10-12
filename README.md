@@ -1,275 +1,223 @@
 <div align="center">
 
-# MD. RAIHAN TAPADER
-### Software Engineer (AI/ML) & Applied AI Researcher
-**AI/ML Software Engineer @ [Betopia Limited](https://betopia.ai/) | B.Sc. in CSE, DUET**
+# Md. Raihan Tapader
 
-Specializing in **Production LLM Systems, Agentic AI, NLP, Empirical Software Engineering, AI Safety, and Trustworthy AI**.  
-Bridging rigorous scientific research with scalable, high-throughput enterprise infrastructure.
+### Software Engineer (AI/ML) L1 | Agentic AI, LLM Systems & Applied AI Research
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raihantapader)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=C_XprSsAAAAJ&hl=en)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0009-0003-5001-4427)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihan-tapader06/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raihantapader@gmail.com)
+Building **[Betopia.ai](https://betopia.ai/)**, engineering production-grade AI systems, and advancing applied research in LLMs, trustworthy AI, and intelligent software engineering.
 
-<br />
-
-📍 *Dhaka, Bangladesh*
+[![GitHub](https://img.shields.io/badge/GitHub-raihantapader-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raihantapader)
+[![Betopia AI](https://img.shields.io/badge/Building-Betopia.ai-6C4DFF?style=for-the-badge&logo=openai&logoColor=white)](https://betopia.ai/)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I am a **Software Engineer (AI/ML) at Betopia Limited** and a **prospective M.Sc. / Ph.D. researcher** in Artificial Intelligence and Computer Science. My career spans both the **industry engineering** of scalable, production-grade LLM applications and **academic research** in intelligent software engineering, trustworthy AI, and efficient inference architectures.
+I am a **Software Engineer (AI/ML)** and **Project Lead** at **[Betopia Limited](https://betopia.ai/)**, actively working at the intersection of production AI engineering and applied research.
 
-* **In Industry:** As Project Lead, I lead the **[Betopia.ai](https://betopia.ai/) ecosystem** across 5 connected products, serving **5,000+ users**. I design task-aware model routing, deploy GPU-hosted open-source LLMs with **vLLM**, optimize KV-cache allocation, implement prompt-injection guardrails, and build multi-agent systems using the **Model Context Protocol (MCP)** and **Agent-to-Agent (A2A)** workflows.
-* **In Research:** I investigate how foundation models comprehend code, AI for code, detect software defects, and automate code refactoring. I have co-authored **6 publications** across international peer-reviewed conferences and journals, collaborating with faculty at the **University of Notre Dame (USA)**, the **University of Aizu (Japan)**, and **Woosong University (South Korea)**, supported by a research grant from the **University Grants Commission (UGC), Bangladesh**.
+- 💼 **Working Domain:** Production-grade LLM systems, Agentic AI (multi-agent orchestration, MCP, agent skills & workflows), LLMOps & high-performance GPU inference (vLLM serving, KV-cache tuning, model routing, capacity planning), and scalable cloud-native AI platforms.
+- 🔬 **Research Interests:** Large Language Models for Software Engineering (code understanding, defect detection, automated refactoring), Trustworthy & Explainable AI (XAI, safety guardrails, LIME/SHAP), and Resource-Efficient Distributed AI (inference optimization, cloud-edge intelligence).
 
----
+I operate across the complete AI lifecycle—bridging empirical evaluation and research with robust, scalable, and resource-efficient software systems.
 
-## ⚡ Core Competencies: Industry & Research
+<div align="center">
 
-| Focus Area | Industry Engineering Capabilities | Academic Research Scope |
-|---|---|---|
-| **LLMs & Generative AI** | RAG pipelines, fine-tuning (LoRA/QLoRA), structured JSON outputs, prompt/context engineering, continuous batching. | Empirical evaluation of LLM code comprehension, few-shot in-context learning dynamics, foundation model benchmarks. |
-| **Agentic AI & Systems** | Multi-agent orchestration (LangGraph, CrewAI), Model Context Protocol (MCP), A2A communication, sandbox code execution. | Autonomous agent reliability, decision transparency, tool-use grounding, multi-step problem solving. |
-| **LLMOps & High-Performance AI** | vLLM deployment, GPU capacity planning (NVIDIA RTX PRO 6000), prefill/decode throughput profiling, local/cloud routing. | Resource-efficient distributed AI, latency-cost optimization models, edge-cloud intelligence, federated learning. |
-| **Trustworthy AI & Security** | Real-time prompt-injection filters, safety guardrails, monitoring with Prometheus/Grafana, failure detection. | Explainable AI (LIME, SHAP feature pruning), interpretability in safety-critical systems, model robustness. |
-| **Cloud-Native Platforms** | FastAPI, Docker, Kubernetes, microservices, vector search (Qdrant, Pinecone, ChromaDB), Redis caching. | Reproducible experimental pipelines, large-scale dataset extraction, statistical benchmarking across architectures. |
+| 5,000+ | 5 Products | 6 Research Works | 3 Global Collaborations |
+|:---:|:---:|:---:|:---:|
+| Betopia AI users | Connected AI products | Published and ongoing | USA, Japan, South Korea |
 
----
+</div>
 
-## 🚀 Industry Engineering Track
+## Technical Skills
 
-### Enterprise Platform: [Betopia AI Ecosystem](https://betopia.ai/)
-As **Project Lead**, I architect and oversee the deployment of an enterprise suite of AI products that unifies models, autonomous agents, external developer tools, and cloud execution environments:
+| Domain | Capabilities |
+|---|---|
+| **Agentic AI** | Multi-agent orchestration, skills and rules, MCP, A2A, tool calling, workflow automation, and agent memory |
+| **LLM Applications** | RAG, prompt/context engineering, structured outputs, few-shot learning, CoT, and QLoRA/LoRA fine-tuning |
+| **LLMOps** | Model routing, vLLM serving, GPU deployment, caching, evaluation, latency/TPS benchmarking, and cost optimization |
+| **AI Platforms** | FastAPI, WebSocket, Docker, Kubernetes, CI/CD, isolated sandboxes, and cloud deployment |
+| **Machine Learning** | Classification, regression, predictive maintenance, NLP, deep learning, model comparison, and explainability |
 
-* **Betopia AI Chat:** Conversational enterprise workspace powered by modular skills, dynamic rules, and multi-agent coordination; scaled to **5,000+ active users**.
-* **Betopia AI Platform & API:** Cloud-native microservices exposing GPU-hosted open-source models via high-throughput REST and WebSocket APIs.
-* **Betopia Coding Agent CLI:** Terminal-native developer agent designed for automated repository exploration, patch generation, syntax-aware refactoring, and sandbox validation.
-* **Betopia IDE Extension:** In-editor context-aware assistant connecting workspace ASTs, project history, and real-time generation.
-* **Betopia Web Builder:** Autonomous full-stack application scaffolding engine featuring live code preview and isolated Docker sandbox builds.
+### Languages & Frameworks
 
-> **Production Highlights:** Orchestrated GPU capacity sizing, inference cost modeling, KV-cache tuning, and prefill/decoding throughput benchmarking on dedicated NVIDIA RTX PRO 6000 hardware; architected intelligent fallback routing between on-prem and cloud endpoints.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
 
----
+### AI, Agents, and Data
 
-### Professional Experience
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000000)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agent_Orchestration-625BF6?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-Tool_Integration-6C4DFF?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-Multi--Agent-FF5A50?style=flat-square)
 
-#### **Software Engineer (AI/ML) Level 1** — [Betopia Limited](https://betopia.ai/)
-`March 2026 – Present` · *Dhaka, Bangladesh* · **Project Lead & CPMO Member**
-* Lead a 7-member cross-functional AI engineering team delivering production AI products across web, CLI, and editor platforms.
-* Designed dynamic task-based model routing algorithms balancing inference latency, GPU memory thresholds, and per-token operating costs.
-* Hardened production LLM workflows against prompt injection and jailbreaks by integrating input/output guardrails and validation layers.
-* Instructed hands-on technical ML bootcamps for 40 trainees covering supervised learning, neural networks, transfer learning, and LLM orchestration.
+### Infrastructure and LLMOps
 
-#### **Junior AI Engineer** — Sparktech AI Agency
-`June 2025 – February 2026` · *Dhaka, Bangladesh*
-* Engineered production RAG chatbots over enterprise compliance and policy documents, reducing manual information lookup time by over 70%.
-* Built realistic customer-simulation agents on Telegram using custom conversational datasets and few-shot system steering.
-* Awarded **Best AI Engineer (Jan 2026)** and **Operation Hero (Feb 2026)** for delivering the agency's highest performance KPIs.
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)
 
-#### **ML Engineer Intern** — Byte Care Ltd.
-`March 2025 – April 2025` · *Dhaka, Bangladesh*
-* Developed an industrial IoT predictive maintenance system achieving **98.4% classification accuracy** in equipment failure detection using Random Forest.
-* Benchmarked Random Forest, Linear Regression, and XGBoost; reduced RMSE by **5%** for predictive telemetry forecasting.
+### Models, APIs, and Databases
 
-#### **Junior AI Engineer (Remote)** — Micro1
-`August 2024 – July 2025` · *Remote*
-* Built conversational AI workflows, assisted in dataset preparation and cleaning, fine-tuned domain models with LoRA, and automated CI/CD deployment pipelines.
+`OpenAI` · `Anthropic Claude` · `Google Gemini` · `OpenRouter` · `vLLM` · `LM Studio` · `RunPod`
 
----
+`Qdrant` · `Chroma` · `Pinecone` · `MongoDB` · `PostgreSQL` · `SQLite`
 
-## 🔬 Academic Research Track
+## Professional Experience
 
-### Primary Research Interests
-* **LLMs for Software Engineering:** Empirical program comprehension, defect localization, automated code refactoring, and smart contract quality assessment.
-* **Trustworthy & Explainable AI (XAI):** Interpretability methods (LIME/SHAP), feature optimization, and safety auditing in mission-critical applications.
-* **Efficient Distributed AI & LLMOps:** GPU memory profiling, throughput maximization, edge-cloud routing, and green AI computing.
+### Software Engineer (AI/ML) Level I — Betopia Limited
 
----
+`March 2026 – Present`
 
-### Publications & Scientific Works
+- Lead a seven-member engineering team delivering the five-product Betopia AI ecosystem.
+- Design task-aware local and cloud model routing with security guardrails and optimized GPU inference.
+- Contribute to product architecture, technical documentation, usability, and enterprise delivery as a CPMO leadership member.
+- Delivered hands-on ML training to 40 students across classification, regression, deep learning, NLP, generative AI, and LLMs.
 
-> **Summary:** 2 Peer-Reviewed (1 Published, 1 Accepted) · 2 Preprints · 1 Under Review · 1 In Preparation
+### Junior AI Engineer — Sparktech AI Agency
 
-#### 🏛️ Peer-Reviewed Papers
+`June 2025 – February 2026`
+
+- Built task-specific Telegram agents using custom datasets, prompts, and realistic customer-behavior simulations.
+- Developed an enterprise RAG assistant that replaced a manual internal-policy lookup workflow.
+- Earned **Best AI Engineer** in January 2026 and **Operation Hero** in February 2026 for leading team KPIs.
+
+### ML Engineer Intern — Byte Care Ltd.
+
+`March 2025 – April 2025`
+
+- Developed a Random Forest predictive-maintenance classifier with **98.4% failure-prediction accuracy**.
+- Benchmarked Random Forest, Linear Regression, and XGBoost, reducing RMSE by **5%**.
+
+### Junior AI Engineer — Micro1
+
+`August 2024 – July 2025`
+
+- Worked on LLM chatbots, model fine-tuning, dataset preparation, AI automation, and production-focused deployment workflows.
+
+## Projects
+
+### Betopia AI Ecosystem ([betopia.ai](https://betopia.ai/)) – Enterprise AI Platform & GPU Capacity Planning | Project Lead
+**Tools:** `Python`, `Go`, `Rust`, `LangChain`, `vLLM`, `Docker`, `Sandbox`, `MCP`, `GPU-hosted open-source LLMs`
+- Architected Betopia AI Chat, CLI, VS Code Extension, and AI IDE using open-source LLMs, agent skills, and multi-agent orchestration for 5,000+ users.
+- Deployed open-source LLMs using vLLM and evaluated model weight, KV-cache, context length, concurrency based on GPU requirements.
+- Designed local and cloud model routing, fallback strategies, caching, monitoring, and deployment.
+- Benchmarked prefill latency, decoding throughput, request capacity, GPU utilization, and inference cost for scalable deployment.
+- Contributed to Betopia CLI, IDE Extension, and Web Builder, codebase-aware agents enabling automated code generation, full-app scaffolding, live preview, isolated sandbox builds, and deployment workflows.
+
+### AI Banking Assistant: with MCP and Web Search [[Live Demo](https://chatbot.betopialimited.com)]
+**Tools:** `Django`, `REST API`, `LLMs`, `RAG`, `MCP`, `Web Search`, `Vector db`, `JavaScript`, `HTML`, `CSS`
+- Built knowledge ingestion extracting text and image-based Premier Bank content, cleaned and chunked official corpora, and indexed it in a vector db for retrieval to minimize hallucination.
+- Developed a RAG-based LLM chatbot with MCP tool calling, live web search answering customer queries grounded in verified banking rules, regulations, and policies.
+
+### [Multi-Cancer Detection: Lung & Colon Classification with Deep Learning](https://github.com/raihantapader/Multi-cancer-Detection)
+**Tools:** `Python`, `TensorFlow/Keras`, `LSTM`, `Bi-LSTM`, `EfficientNet-B0`, `ResNet50`
+- Demonstrated the superiority of CNNs over RNNs for medical imaging, with EfficientNet-B0 achieving 99.85% accuracy using transfer learning.
+
+### [SmartRecipe: LLM-Powered Nutritional UK Recipe Generator](https://github.com/raihantapader/Food-Recipe-generator)
+**Tools:** `Python`, `LLM`, `Prompt Engineering`, `FastAPI`
+- Constructed prompt-driven recipe engine to generate macro-optimized UK recipes, mitigated hallucination and inconsistency through iterative prompt design and structured output schemas without fine-tuning.
+
+### PPR Procurement Evaluation Assistant
+**Tools:** `Python`, `GPT-4o Vision`, `OCR`, `PDF`, `GovTech`
+- Built a contractor-side AI agent that parses to extract tender requirements, checks legal and qualification readiness, and flags missing documents before submission.
+- Developed an evaluator-side agent to verify contractor documents against tender criteria, detect missing or invalid files, and generate scores with Pass/Fail decisions.
+
+### [NLP & ML Works](https://github.com/raihantapader)
+**Tools:** `Python`, `scikit-learn`, `NLP`, `Tokenization`, `TF-IDF`, `Word2Vec`
+- Developed and evaluated multiple NLP pipelines for spam detection, fake news classification, and sentiment analysis, applying tokenization, stemming, lemmatization, TF-IDF, BoW, and Word2Vec preprocessing techniques.
+
+## Research Profile
+
+My research connects **large language models, software engineering, trustworthy AI, and efficient AI infrastructure**. I am interested in NLP and LLMs, AI security and guardrails, explainable AI, cloud-edge intelligence, federated learning, and resource-efficient distributed AI systems.
+
+### Publications and Ongoing Research
+
+**Peer-reviewed and accepted**
+
 1. **Hybrid Approach for Driver Behavior Analysis with Machine Learning, Feature Optimization, and Explainable AI**  
-   **Authors:** M. H. Shuvo, **M. R. Tapader**, N. M. Tamjid, S. Islam, J. Uddin  
-   **Venue:** *Accepted at the 10th International Conference on Information and Computer Technologies (ICICT 2026)*, Honolulu, Hawaii, USA  
-   **Links:** [arXiv:2601.03477](https://arxiv.org/abs/2601.03477) · DOI: `10.48550/arXiv.2601.03477`  
-   **Focus:** Evaluated 13 machine learning classifiers on real-world vehicle telematics. Implemented LIME-guided feature pruning to reduce input dimensionality while maintaining high predictive accuracy in explainable safety systems.
+   M. H. Shuvo, **M. R. Tapader**, N. M. Tamjid, S. Islam, A. A. Choudhury, and J. Uddin. Accepted at **ICICT 2026**, Honolulu, Hawaii, USA. Evaluates 13 ML classifiers and uses LIME-guided feature analysis for interpretable road-safety modeling. [Paper](https://arxiv.org/abs/2601.03477)
 
 2. **Efficient-AgriNet: A Hybrid Deep Learning Model for Crops Disease Detection**  
-   **Authors:** A. I. Shiplu, **M. R. Tapader**, A. O. Ratan, M. S. Islam  
-   **Venue:** *IEEE Xplore, 2025 International Conference on Next Generation Computing, IoT and Machine Learning (NCIM 2025)*, Dhaka, Bangladesh, September 2025  
-   **Links:** [IEEE Xplore](https://doi.org/10.1109/NCIM65934.2025.11160162) · DOI: `10.1109/NCIM65934.2025.11160162`  
-   **Focus:** Engineered a hybrid convolutional neural network incorporating transfer learning for local crop foliar diseases, surpassing standard baseline models on regional agricultural benchmarks.
+   A. I. Shiplu, **M. R. Tapader**, A. O. Ratan, and M. S. Islam. Published in **IEEE Xplore, NCIM 2025**. Develops a hybrid deep-learning approach for crop-disease detection on Bangladeshi agricultural data. [DOI](https://doi.org/10.1109/NCIM65934.2025.11160162)
 
-#### 📄 Preprints & Working Papers
-3. **Code Refactoring with LLM: A Comprehensive Evaluation Across Few-Shot Settings**  
-   **Authors:** **M. R. Tapader** (First Author), M. Rahman, A. I. Shiplu, Y. Watanobe  
-   **Date:** November 2025 · **Links:** [arXiv:2511.21788](https://arxiv.org/abs/2511.21788) · DOI: `10.48550/arXiv.2511.21788`  
-   **Focus:** Conducted an extensive multilingual empirical benchmark (C, C++, C#, Java, Python) evaluating LLM-assisted code refactoring under zero-shot and few-shot in-context learning, measuring complexity reduction and semantic preservation.
+**Preprints**
+
+3. **Code Refactoring with LLM: A Comprehensive Evaluation With Few-Shot Settings**  
+   **M. R. Tapader**, M. Rahman, A. I. Shiplu, M. F. I. Amin, and Y. Watanobe. First-author study of multilingual LLM-based code refactoring across C, C++, C#, Python, and Java using prompt design, fine-tuning, and code-quality evaluation. [Paper](https://arxiv.org/abs/2511.21788)
 
 4. **ChatGPT and DeepSeek: Strengths, Limitations, and the Future of Generative AI**  
-   **Authors:** M. M. Rahman, A. I. Shiplu, Y. Watanobe, **M. R. Tapader**, M. F. I. Amin, L. Peng  
-   **Date:** July 2025 · **Links:** [TechRxiv:175295088.83929664/v1](https://doi.org/10.36227/techrxiv.175295088.83929664/v1)  
-   **Focus:** Comprehensive comparative evaluation of reasoning, mathematical problem solving, program generation, and hallucination rates between leading proprietary and open-weight models.
+   M. M. Rahman, A. I. Shiplu, Y. Watanobe, **M. R. Tapader**, M. F. I. Amin, and L. Peng. Comparative study of model capabilities, limitations, risks, and responsible adoption across research and real-world applications. [DOI](https://doi.org/10.36227/techrxiv.175295088.83929664/v1)
 
-#### ⏳ Under Review & In Preparation
-5. **Attention-Based Fault Analysis in Power Systems Using Textual Reformulation of Electrical Signals**  
-   **Authors:** A. I. Shiplu, **M. R. Tapader**, M. S. Islam  
-   **Status:** Under Review (2025–2026)  
-   **Focus:** Formulates electrical transmission disturbance signals as structured linguistic sequences for attention-based neural fault classification.
+**Under review and in preparation**
 
-6. **Sol-QRefact: A Multi-Dimensional Code Quality and Refactoring Benchmark for Solidity Smart Contracts**  
-   **Authors:** **M. R. Tapader** (Lead Author), Istiaque Ahamed  
-   **Status:** In Preparation (2026)  
-   **Focus:** Developing an empirical benchmark assessing gas optimization, security anti-pattern removal, and maintainability in smart contract refactoring.
+5. **Attention-Based Fault Analysis in Power Systems Using Textual Reformulation of Electrical Signals** - under review; investigates LLM-oriented fault analysis for power-system signals.
 
----
+6. **Sol-QRefact: A Multi-Dimensional Code Quality and Refactoring Benchmark for Solidity Smart Contracts** - first-author work in preparation; develops a benchmark for evaluating Solidity refactoring quality across multiple dimensions.
 
-### 🎓 Bachelor's Thesis Research
+### Research Experience and Collaboration
 
-#### **Programming Code Understanding with Large Language Models: A Comparative Analysis**
-* **Institution:** Dhaka University of Engineering & Technology (DUET)
-* **Supervisor:** [Prof. Md. Shafiqul Islam](mailto:shafiqul@duet.ac.bd) (Professor, Dept. of CSE, DUET)
-* **Timeline:** August 2024 – September 2025 · **Conferred:** October 2025
+- **International Research Collaboration:** worked with researchers affiliated with the University of Notre Dame, University of Aizu, and Woosong University on LLM benchmarking, code refactoring, generative-AI evaluation, crop-disease detection, experimental design, and manuscript preparation.
+- **Research Assistant, CryoNava Research Club:** compared 13 ML classifiers for driver-behavior analysis and applied LIME-guided feature pruning to improve interpretability for safety-oriented systems.
+- **UGC Research Collaboration Project:** contributing to *Large Language Model-Based Fault Detection in Transmission Lines: A Comparative Analysis*.
 
-* **Research Problem:** Systematically addressed the dispute regarding which neural model family—**Encoder-Only** (e.g., CodeBERT), **Encoder-Decoder** (e.g., CodeT5), or **Decoder-Only** (e.g., DeepSeek-Coder)—provides the most dependable semantic code understanding for static software engineering analysis.
-* **Methodology & Datasets:** Evaluated representative model architectures on real-world datasets for two core tasks: **Code Defect Detection** and **Algorithm Recognition**.
-* **Quantitative Findings:**
-  * Demonstrated the empirical superiority of decoder-only LLMs over legacy architectures.
-  * **DeepSeek-Coder** attained **65.35% accuracy** in defect detection and up to **97.23% F1-score** in algorithm recognition, delivering a **+3.29% absolute F1 gain** over comparative baselines.
-* **Significance:** Provided actionable guidelines for architecture selection and prompt configuration in automated program analysis pipelines.
+### Research Grants and Recognition
 
----
+- Research Collaboration Grant, **University Grants Commission of Bangladesh** - 2025-2026
+- Research Collaboration Grant, **University of Aizu, Japan** - 2023-2025
+- Research Collaboration Grant, **Woosong University, South Korea** - 2024-2025
+- **Best Session Presenter**, 1st International Conference on ICSHSD - 2025
 
-### 🌐 Research Grants & Academic Honors
+## B.Sc. Thesis
 
-* **Research Collaboration Grant** — *University Grants Commission (UGC), Bangladesh* (2025–2026)  
-  *Project: "Large Language Model-Based Fault Detection in Transmission Lines: A Comparative Analysis"*
-* **International Research Collaboration Grant** — *University of Aizu, Japan* (2023–2025)
-* **International Research Collaboration Grant** — *Woosong University, South Korea* (2024–2025)
-* **Best Session Presenter** — *1st International Conference on ICSHSD-2025* (October 2025)
-* **1st Runner-up (Team)** — *Techfest IIT Bombay (Bangladesh Zonal)* (August 2024)
-* **Best AI Engineer** — *Betopia Limited* (June 2026)
-* **Operation Hero Award** — *Sparktech AI Agency* (February 2026)
+### Programming Code Understanding with Large Language Models: A Comparative Analysis
 
----
+`August 2024 - September 2025` · Supervised by **Prof. Md. Shafiqul Islam**
 
-## 🛠️ Featured Projects: Production & Research
+- Benchmarked **encoder-only, encoder-decoder, and decoder-only LLM architectures** for code-defect detection and algorithm recognition on real-world datasets.
+- Evaluated whether architectural differences affect the reliability of LLMs on software-engineering code-understanding tasks.
+- Found that the decoder-only **DeepSeek-Coder** achieved **65.35% accuracy** in defect detection and up to **97.23% F1-score** in algorithm recognition.
+- Contributed empirical evidence to the broader discussion of architecture selection for dependable AI-assisted software engineering.
 
-### 🏦 AI Banking Assistant — Premier Bank (Industry)
-**Production RAG system with Model Context Protocol (MCP) and live web search**  
-`Django` · `REST API` · `MCP` · `Vector DB` · `RAG` · `JavaScript`
-* Implemented knowledge ingestion pipelines parsing PDFs, image scans, and tabular bank data into embeddings.
-* Integrated MCP tool calling to query live web information and official banking regulations, strictly mitigating hallucination risks.
+## Education
 
-### 🧬 [Multi-Cancer Classification with Deep Learning](https://github.com/raihantapader) (Research)
-**Comparative deep learning analysis on lung and colon histopathology**  
-`TensorFlow/Keras` · `EfficientNet-B0` · `ResNet50` · `Bi-LSTM`
-* Compared CNN and recurrent vision backbones for medical image diagnosis.
-* Established EfficientNet-B0 as the optimal architecture with **99.85% classification accuracy** via transfer learning.
+- **B.Sc. in Computer Science and Engineering**, Dhaka University of Engineering & Technology — 2025
+- **Diploma in Electronics Technology**, Cumilla Polytechnic Institute — 2019
 
-### 🥗 [SmartRecipe — LLM Nutritional Engine](https://github.com/raihantapader/Food-Recipe-generator) (Open Source)
-**Prompt-driven macro-optimized recipe generation engine**  
-`Python` · `FastAPI` · `Prompt Engineering` · `Structured Outputs`
-* Built a constraint-guided culinary generation engine that satisfies exact macronutrient limits through structured JSON schemas without fine-tuning overhead.
+## Co-curricular Activities
 
-### 📑 PPR GovTech Procurement Evaluation Agent (Industry)
-**Dual-agent workflow automating government tender eligibility and document auditing**  
-`Python` · `GPT-4o Vision` · `OCR` · `PDF Parsing` · `AI Agents`
-* Developed a two-sided verification agent: one extracting tender qualification criteria and the other validating contractor documentation with Pass/Fail scoring.
+- Research Coordinator, DUET Computer Society
+- Senior Vice-President and Founding Member, Math Club, DUET
+- Organizing Secretary, DUET Robotics Club
+- Volunteer, DUET programming contests and international academic conferences
+- Participant, programming contests, mathematics olympiad, and DUET TechFest events
 
----
+## Course and Certifications
 
-## 💻 Technical Stack
+- **Building AI Agents with LLMs, RAG, and Knowledge Graphs Specialization**, Coursera — 2026
+- **Anthropic Partner Network Learning Path**, four Anthropic Academy certifications — 2026
+- **Aspire Leaders Program**, Aspire Institute — Cohort 5, 2025
+- **Retrieval-Augmented Generation: Beginner to Expert**, Coursera — 2025
 
-| Category | Technologies & Tools |
-|---|---|
-| **Programming Languages** | Python, Go (Golang), C++, Rust, JavaScript, SQL, Shell scripting |
-| **Machine Learning & DL** | PyTorch, TensorFlow/Keras, Hugging Face Transformers, scikit-learn, NumPy, Pandas |
-| **LLMs & GenAI** | Fine-Tuning (PEFT, LoRA, QLoRA), RAG, Prompt Engineering, Chain-of-Thought (CoT), Few-Shot, Evaluation |
-| **Agentic AI & Tooling** | Model Context Protocol (MCP), LangChain, LangGraph, LlamaIndex, CrewAI, Agent-to-Agent (A2A), n8n |
-| **LLMOps & High-Performance Inference** | vLLM, LM Studio, NVIDIA RTX PRO 6000 Deployment, Model Routing, KV-Cache Optimization, Semantic Caching |
-| **Cloud, DevOps & Containers** | Docker, Kubernetes, AWS, RunPod, Vercel, CI/CD Actions, Linux/Unix, Isolated Sandboxes |
-| **Databases & Vector Stores** | Qdrant, ChromaDB, Pinecone, PostgreSQL, MongoDB, SQLite, Redis |
-| **Explainable & Trustworthy AI** | LIME, SHAP, Prompt Guardrails, Adversarial Robustness, Federated Learning Concepts |
-| **Monitoring & Telemetry** | Prometheus, Grafana, Beszel, OpenTelemetry |
-
----
-
-## 📜 Education & Certifications
-
-* **B.Sc. in Computer Science and Engineering (CSE)** — *Dhaka University of Engineering & Technology (DUET)*  
-  *Nov 2021 – Oct 2025*  
-  *Key Coursework:* Machine Learning, Artificial Intelligence, Neural Networks & Pattern Recognition, Data Structures, Cyber-Physical Systems, Human-Computer Interaction.
-* **Diploma in Electronics Technology** — *Cumilla Polytechnic Institute*  
-  *Sep 2015 – Dec 2019* 
-
-### Professional Credentials
-* **Building AI Agents with LLMs, RAG, and Knowledge Graphs Specialization** (Coursera, July 2026)
-* **Anthropic Partner Network Learning Path** — 4 Certifications: Claude API, Agent Skills, MCP, Claude Code Actions (Anthropic Academy, May–June 2026)
-* **Aspire Leaders Program** — Leadership credential, *Aspire Institute (founded at Harvard Business School)* (Nov 2025 – Feb 2026)
-* **Retrieval Augmented Generation (RAG) — Beginner to Expert** (Coursera, Sep–Oct 2025)
-* **Master Git and GitHub — Beginner to Expert** (Udemy, Aug–Sep 2025)
-
----
-
-## 🤝 Academic & Professional References
-
-Academic professors and industry collaborators are welcome to contact my research supervisors and collaborators:
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-**Prof. Md. Shafiqul Islam**  
-Professor, Dept. of CSE  
-Dhaka University of Engineering & Technology (DUET)  
-Gazipur, Dhaka, Bangladesh  
-📧 [`shafiqul@duet.ac.bd`](mailto:shafiqul@duet.ac.bd)  
-*Role: B.Sc. Thesis Supervisor*
-
-</td>
-<td width="33%" valign="top">
-
-**Prof. Yutaka Watanobe**  
-Professor & Head of Laboratory  
-University of Aizu  
-Aizuwakamatsu, Fukushima, Japan  
-📧 [`yutaka@u-aizu.ac.jp`](mailto:yutaka@u-aizu.ac.jp)  
-*Role: International Research Collaborator*
-
-</td>
-<td width="33%" valign="top">
-
-**Dr. Md Mostafizer Rahman**  
-Postdoctoral Research Fellow  
-University of Notre Dame  
-Notre Dame, Indiana, USA  
-📧 [`mostafiz26@gmail.com`](mailto:mostafiz26@gmail.com)  
-*Role: Research Mentor & Co-Author*
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Contributions & Activity
+## GitHub Activity
 
 <div align="center">
 
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raihantapader&theme=github" alt="Raihan's GitHub statistics" />
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raihantapader&theme=github" alt="Raihan's most-used public repository languages" />
-
-<br />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raihantapader&theme=github" alt="Raihan's GitHub contribution summary" />
 
@@ -279,9 +227,9 @@ Notre Dame, Indiana, USA
 
 <div align="center">
 
-### *"Advancing reliable AI through rigorous empirical science and high-throughput production engineering."*
+### Turning rigorous AI research into dependable, production-ready systems.
 
-**Open to High-Impact AI/ML Engineering Roles & Graduate Research Assistantships (M.Sc. / Ph.D.)**  
-📫 Feel free to reach out via [Email](mailto:raihantapader@gmail.com) or connect on [LinkedIn](https://linkedin.com)!
+[![GitHub](https://img.shields.io/badge/GitHub-raihantapader-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raihantapader)
+[![Betopia AI](https://img.shields.io/badge/Explore-Betopia.ai-6C4DFF?style=for-the-badge&logo=openai&logoColor=white)](https://betopia.ai/)
 
 </div>

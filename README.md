@@ -6,8 +6,14 @@
 
 Building **[Betopia.ai](https://betopia.ai/)**, engineering production-grade AI systems, and advancing applied research in LLMs, trustworthy AI, and intelligent software engineering.
 
-[![GitHub](https://img.shields.io/badge/GitHub-raihantapader-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raihantapader)
-[![Betopia AI](https://img.shields.io/badge/Building-Betopia.ai-6C4DFF?style=for-the-badge&logo=openai&logoColor=white)](https://betopia.ai/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raihantapader)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihan-tapader06/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=C_XprSsAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-5001-4427)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Md-Tapader)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801874142262)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/raihantapader06/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raihantapader@gmail.com)
 
 </div>
 
@@ -229,7 +235,7 @@ My research connects **large language models, software engineering, trustworthy 
 
 ### Turning rigorous AI research into dependable, production-ready systems.
 
-[![GitHub](https://img.shields.io/badge/GitHub-raihantapader-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raihantapader)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raihantapader)
 [![Betopia AI](https://img.shields.io/badge/Explore-Betopia.ai-6C4DFF?style=for-the-badge&logo=openai&logoColor=white)](https://betopia.ai/)
 
 </div>

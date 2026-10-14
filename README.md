@@ -2,7 +2,7 @@
 
 # Md. Raihan Tapader
 
-### Software Engineer (AI/ML) L1 | Agentic AI, LLM Systems & Applied AI Research
+### AI Engineer - L1 | Agentic AI, LLM Systems & Applied AI Research
 
 Building **[Betopia.ai](https://betopia.ai/)**, engineering production-grade AI systems, and advancing applied research in LLMs, trustworthy AI, and intelligent software engineering.
 
@@ -21,7 +21,7 @@ Building **[Betopia.ai](https://betopia.ai/)**, engineering production-grade AI 
 
 ## About Me
 
-I am a **Software Engineer (AI/ML)** and **Project Lead** at **[Betopia Limited](https://betopia.ai/)**, actively working at the intersection of production AI engineering and applied research.
+I am a **AI Engineer ** and **Project Lead** at **[Betopia Limited](https://betopia.ai/)**, actively working at the intersection of production AI engineering and applied research.
 
 - 💼 **Working Domain:** Production-grade LLM systems, Agentic AI (multi-agent orchestration, MCP, agent skills & workflows), LLMOps & high-performance GPU inference (vLLM serving, KV-cache tuning, model routing, capacity planning), and scalable cloud-native AI platforms.
 - 🔬 **Research Interests:** Large Language Models for Software Engineering (code understanding, defect detection, automated refactoring), Trustworthy & Explainable AI (XAI, safety guardrails, LIME/SHAP), and Resource-Efficient Distributed AI (inference optimization, cloud-edge intelligence).
@@ -84,7 +84,7 @@ I operate across the complete AI lifecycle—bridging empirical evaluation and r
 
 ## Professional Experience
 
-### Software Engineer (AI/ML) Level I — Betopia Limited
+### AI Engineer Level I — Betopia Limited
 
 `March 2026 – Present`
 

@@ -21,7 +21,7 @@ Building **[Betopia.ai](https://betopia.ai/)**, engineering production-grade AI 
 
 ## About Me
 
-I am a **AI Engineer ** and **Project Lead** at **[Betopia Limited](https://betopia.ai/)**, actively working at the intersection of production AI engineering and applied research.
+I am a **AI Engineer** and **Project Lead** at **[Betopia Limited](https://betopia.ai/)**, actively working at the intersection of production AI engineering and applied research.
 
 - 💼 **Working Domain:** Production-grade LLM systems, Agentic AI (multi-agent orchestration, MCP, agent skills & workflows), LLMOps & high-performance GPU inference (vLLM serving, KV-cache tuning, model routing, capacity planning), and scalable cloud-native AI platforms.
 - 🔬 **Research Interests:** Large Language Models for Software Engineering (code understanding, defect detection, automated refactoring), Trustworthy & Explainable AI (XAI, safety guardrails, LIME/SHAP), and Resource-Efficient Distributed AI (inference optimization, cloud-edge intelligence).
@@ -218,16 +218,6 @@ My research connects **large language models, software engineering, trustworthy 
 - **Aspire Leaders Program**, Aspire Institute — Cohort 5, 2025
 - **Retrieval-Augmented Generation: Beginner to Expert**, Coursera — 2025
 
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raihantapader&theme=github" alt="Raihan's GitHub statistics" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raihantapader&theme=github" alt="Raihan's most-used public repository languages" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raihantapader&theme=github" alt="Raihan's GitHub contribution summary" />
-
-</div>
 
 ---
 
